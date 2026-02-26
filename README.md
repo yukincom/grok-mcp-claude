@@ -8,6 +8,8 @@ Grok MCP server optimized for Claude Desktop — clean, single-file implementati
 
 Claude Desktop handles conversation, memory, and reasoning. Grok provides what Claude can't — real-time web search, X (Twitter) search, and image/video generation.
 
+![sucsess](https://github.com/yukincom/grok-mcp-claude/blob/main/img-for-readme/2026-02-25%201.06.18.png)
+
 ## Features
 
 | Tool | Description |
